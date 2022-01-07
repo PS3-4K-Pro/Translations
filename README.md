@@ -17,7 +17,7 @@ Translations for PS3™ 4K Pro.
 | Simplified Chinese | Mr_Beacon00
 | Spanish | Mr_ota
 | Dutch | Pocolini
-| Gemran | X-RayBuster93
+| German | X-RayBuster93
 
 # Missing Translations
 Japonese</br>
